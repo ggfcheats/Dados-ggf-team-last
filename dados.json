@@ -1,8 +1,12 @@
 {
-  "keys_validas": [
-    "GGF-VIP-2026-X7",
-    "GGF-FREEFIRE-TEST",
-    "GGF-ADMIN-MASTER"
-  ]
+  "keys": {
+    "GGF-VIP-7DIAS": {
+      "expiracao": "2026-12-31 23:59:59",
+      "status": "ativo"
+    },
+    "GGF-TESTE-HORAS": {
+      "expiracao": "2026-11-25 18:30:00",
+      "status": "ativo"
+    }
+  }
 }
-
